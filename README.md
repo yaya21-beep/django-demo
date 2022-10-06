@@ -4,7 +4,7 @@
 
 #### With git:
 ```
-git clone https://github.com/KalobTaulien/django-101.git
+git clone https://github.com/yaya21-beep/django-101.git
 ```
 
 #### Download the .zip
